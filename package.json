@@ -1,0 +1,18 @@
+{
+	"name": "dashboard",
+	"version": "1.0.0",
+	"description": "",
+	"main": "gatsby-config.js",
+	"scripts": {
+		"dev": "gatsby develop",
+		"build": "gatsby build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"gatsby": "^2.24.63",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1"
+	}
+}
