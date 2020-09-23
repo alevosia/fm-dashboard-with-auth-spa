@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import { IdentityContextProvider } from 'react-netlify-identity-widget'
+import { IdentityContextProvider } from 'react-netlify-identity'
 import './layout.css'
 
 const netlifyURL = 'https://fm-dashboard-with-auth-spa.netlify.app/'
